@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -98,7 +99,7 @@
         <p class="paragraph">Last Projects</p>
         <div class="projects">
           <div>
-            <img src="restaurant.jpeg" alt="" />
+            <img src="Screenshot 2021-10-13 034707.png" alt="" />
             <a href="https://karamlyy.github.io/restaurant/"
               >Karamlyy Restaurant</a>
           </div>
@@ -115,6 +116,16 @@
             <img src="social.jpeg" alt="" />
             <a href="https://karamlyy.github.io/karamlyy_social/">Karamlyy Social Media</a>
           </div>
+          <div>
+            <img src="saat.png" alt="" />
+            <a href="https://karamlyy.github.io/flip_clock/"
+              >Karamlyy Flip Clock</a>
+          </div>
+          <div>
+            <img src="agecalc.png" alt="" />
+            <a href="https://karamlyy.github.io/age_calculator/"
+              >Karamlyy Age Calculator</a>
+          </div>
         </div>
       </div>
     </section>
@@ -129,3 +140,4 @@
     <script src="project.js"></script>
   </body>
 </html>
+
